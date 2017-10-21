@@ -1,9 +1,4 @@
 
-Manorrock JNDI
-==============
+#Manorrock JNDI
 
-The Manorrock JNDI project delivers the following:
-
-* A JNDI Context.
-
---END
+See the [website](https://manorrock.github.io/jndi) for more information.
