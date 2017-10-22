@@ -189,7 +189,7 @@ public class DefaultInitialContext implements Context {
      *
      * @param name the name.
      * @return the sub context.
-     * @throws NamingException
+     * @throws NamingException when a naming error occurs.
      */
     @Override
     public Context createSubcontext(Name name) throws NamingException {
